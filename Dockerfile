@@ -47,6 +47,7 @@ RUN \
   pip install --no-cache-dir -U \
   plexapi \
   pycryptodomex \
+  pytz \
   pyopenssl && \
   echo "**** add s6 overlay ****" && \
   curl -o \

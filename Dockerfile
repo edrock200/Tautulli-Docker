@@ -48,6 +48,8 @@ RUN \
   plexapi \
   pycryptodomex \
   pytz \
+  tzlocal \
+  queue \
   pyopenssl && \
   echo "**** add s6 overlay ****" && \
   curl -o \

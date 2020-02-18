@@ -49,7 +49,6 @@ RUN \
   pycryptodomex \
   pytz \
   tzlocal \
-  Queue \
   pip-tools \
   CherryPy \
   Mako \
@@ -60,7 +59,6 @@ RUN \
   urllib3 \
   passlib \
   requests \
-  pywin32 \
   infi.systray \
   oauthlib \
   xmltodict \

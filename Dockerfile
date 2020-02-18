@@ -50,6 +50,40 @@ RUN \
   pytz \
   tzlocal \
   queue \
+  Queue \
+  pip-tools \
+  CherryPy \
+  Mako \
+  arrow \
+  portend \
+  APScheduler \
+  configobj \
+  urllib3 \
+  passlib \
+  requests \
+  pywin32 \
+  infi.systray \
+  oauthlib \
+  xmltodict \
+  websocket-client \
+  geoip2 \
+  pyjwt \
+  logutils \
+  maxminddb \
+  cloudinary \
+  facebook-sdk \
+  python-twitter \
+  ipwhois \
+  IPy \
+  bs4 \
+  feedparser \
+  httpagentparser \
+  bleach \
+  paho-mqtt \
+  gntp \
+  PyNMA \
+  profilehooks \
+  distro \
   pyopenssl && \
   echo "**** add s6 overlay ****" && \
   curl -o \

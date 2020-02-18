@@ -5,7 +5,7 @@
 	ADVANCED_GIT_BRANCH="master"
 
 [ "$ADVANCED_GIT_REPO" ] || \
-	ADVANCED_GIT_REPO="https://github.com/Tautulli/Tautulli.git"
+	ADVANCED_GIT_REPO="https://github.com/zSeriesGuy/Tautulli.git"
 
 INSTALL_FOLDER="/app/tautulli"
 

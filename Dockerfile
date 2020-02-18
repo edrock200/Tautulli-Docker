@@ -49,7 +49,6 @@ RUN \
   pycryptodomex \
   pytz \
   tzlocal \
-  queue \
   Queue \
   pip-tools \
   CherryPy \

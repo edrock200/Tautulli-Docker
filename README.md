@@ -1,4 +1,5 @@
 ***This fork containerizes the multi server fork of tautulli by zseriesguy. Still very alpha. -edrock200
+Multi edition fork source https://github.com/zSeriesGuy/Tautulli
 
 [linuxserverurl]: https://linuxserver.io
 [appurl]: https://github.com/tautulli/tautulli

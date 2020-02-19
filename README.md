@@ -1,3 +1,5 @@
+***This fork conyainerizes the multi server fork of tautulli by zseriesguy. Still very alpha. -edrock200
+
 [linuxserverurl]: https://linuxserver.io
 [appurl]: https://github.com/tautulli/tautulli
 [hub]: https://hub.docker.com/r/tautulli/tautulli/

@@ -129,7 +129,7 @@ RUN  apt-get install -y \
   /tmp/*
 
 # add local files
-COPY root/ /
+COPY root/ \
   bs4 \
   feedparser \
   httpagentparser \
